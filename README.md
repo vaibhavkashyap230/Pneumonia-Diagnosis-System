@@ -1,2 +1,3 @@
-# Pneumonia-Diagnosis-Assistance-System
-Machine learning model to detect Pneumonia from malignant X-Ray scans of the chest.
+# PNEUMONIA_DETECTION
+THIS IS A SOFTWARE WHICH CAN DETECT IF A PERSON IS HAVING PNEUMONIA OR NOT USING HIS X-RAY IMAGES WITH 94% ACCURACY!..
+DOWNLOAD THE DATASET FROM HERE -:  https://drive.google.com/open?id=1i-fqvWeu0N1ZNdVAxNGnJXWu20GL-T_w
